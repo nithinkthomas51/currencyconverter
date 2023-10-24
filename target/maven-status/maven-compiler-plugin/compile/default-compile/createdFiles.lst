@@ -1,0 +1,12 @@
+com\project\ui\ConverterApp.class
+com\project\ui\AmountField.class
+com\project\httpcomponents\RequestGenerator.class
+com\project\converter\Main.class
+com\project\ui\ConvertField.class
+com\project\jsonhandler\ParseJSON.class
+com\project\httpcomponents\ConversionRateRequestHandler.class
+com\project\ui\ConvertField$1.class
+com\project\ui\CountryField.class
+com\project\httpcomponents\ResponseGenerator.class
+com\project\ui\Field.class
+com\project\converter\Converter.class
